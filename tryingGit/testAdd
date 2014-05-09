@@ -1,0 +1,5 @@
+git add . adds all new files
+git add -u updates tracking for files that changed names or were deleted
+git add -A does both the previous
+
+before committing, you should do this
