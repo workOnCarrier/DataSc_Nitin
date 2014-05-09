@@ -7,3 +7,11 @@ before committing, you should do this
 git commit -m "message" updates your local repo, not the remote repo on github
 
 git push updates the local updates to remote git
+
+branching:
+git checkout -b branchname -- creates a branch
+
+git branch ------ give the name of the branch you are working with
+
+git checkout master ---- switches to master
+
