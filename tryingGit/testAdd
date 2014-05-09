@@ -3,3 +3,7 @@ git add -u updates tracking for files that changed names or were deleted
 git add -A does both the previous
 
 before committing, you should do this
+
+git commit -m "message" updates your local repo, not the remote repo on github
+
+git push updates the local updates to remote git
